@@ -1,84 +1,124 @@
 {
-	"movies":[
-		{	
-			"id":1,
-			"name":"Tenet",
-			"type":"Action/Sci-Fi",
-			"year":"2020",
-			"country":"USA",
-			"director":"Christopher Nolan",
-			"cast":{
-				"name":["John David Washington","Robert Pattinson","Elizabeth Debicki"]
-			},
-			"poster":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwQZ2s5TKxJm8pAGaRDt0VehyvikwU3zgd1I1iR-KD7QsNHmcN",
-			"duration":"2h 31min",
-			"release_date":"3 September 2020",
-			"imdb_rating": "8.5/10",
-			"tomatoe_rating": "81%"
-		},
-		{
-			"id":2,
-			"name":"Black Widow",
-			"type":"Action",
-			"year":"2020",
-			"country":"USA",
-			"director":"Cate Shortland",
-			"cast":{
-				"name":["Scarlett Johansson","Robert Downey Jr.","Rachel Weisz"]
-			},
-			"poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAtPQrkBhk5KiqU87UJPOerOJNO4JZU2C0lBLQ4pzJFP1mnY0",
-			"duration":"2h 30min",
-			"release_date":"6 November 2020",
-			"imdb_rating": "7.5/10",
-			"tomatoe_rating": "85%"
-		},
-		{
-			"id":3,
-			"name":"Onward",
-			"type":"Animation",
-			"year":"2020",
-			"country":"USA",
-			"director":"Dan Scanlon",
-			"cast":{
-				"name":["Tom Holland","Chris Pratt","Julia Louis-Dreyfus"]
-			},
-			"poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5dj5nsOPEbkyr_Yn2TH5Aj7s4y0PazNrvx7HUJYoFa7KQZqqE",
-			"duration":"1h 42min",
-			"release_date":"6 March 2020",
-			"imdb_rating": "7.4/10",
-			"tomatoe_rating": "88%"
-		},
-		{
-			"id":4,
-			"name":"Joker",
-			"type":"Crime/Drama",
-			"year":"2019",
-			"country":"USA",
-			"director":"Todd Phillips",
-			"cast":{
-				"name":["Joaquin Phoenix","Robert De Niro","Zazie Beetz"]
-			},
-			"poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKLiEyyz1Q9RC8EBYl3ijr3nuGeyO2ETmwy6Kdq0AQtD0elWD",
-			"duration":"2h 2min",
-			"release_date":"4 October 2019",
-			"imdb_rating": "8.5/10",
-			"tomatoe_rating": "68%"
-		},
-		{
-			"id":5,
-			"name":"Aladdin",
-			"type":"Adventure",
-			"year":"2019",
-			"country":"USA",
-			"director":"Guy Ritchie",
-			"cast":{
-				"name":["Will Smith","Mena Massoud","Naomi Scott"]
-			},
-			"poster":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReXTb0ovI3Y0LCEEg2_VEyIqm73i-PDegxJaJaIBZh92s_LFK4",
-			"duration":"2h 8min",
-			"release_date":"24 May 2019",
-			"imdb_rating": "7/10",
-			"tomatoe_rating": "57%"
-		}
-	]
+  "movies": [
+    {
+      "id": 1,
+      "name": "Tenet",
+      "type": "Action/Sci-Fi",
+      "year": "2020",
+      "country": "USA",
+      "director": "Christopher Nolan",
+      "cast": {
+        "name": [
+          "John David Washington",
+          "Robert Pattinson",
+          "Elizabeth Debicki"
+        ]
+      },
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwQZ2s5TKxJm8pAGaRDt0VehyvikwU3zgd1I1iR-KD7QsNHmcN",
+      "duration": "2h 31min",
+      "release_date": "3 September 2020",
+      "imdb_rating": "8.5/10",
+      "tomatoe_rating": "81%"
+    },
+    {
+      "id": 2,
+      "name": "Black Widow",
+      "type": "Action",
+      "year": "2020",
+      "country": "USA",
+      "director": "Cate Shortland",
+      "cast": {
+        "name": [
+          "Scarlett Johansson",
+          "Robert Downey Jr.",
+          "Rachel Weisz"
+        ]
+      },
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHAtPQrkBhk5KiqU87UJPOerOJNO4JZU2C0lBLQ4pzJFP1mnY0",
+      "duration": "2h 30min",
+      "release_date": "6 November 2020",
+      "imdb_rating": "7.5/10",
+      "tomatoe_rating": "85%"
+    },
+    {
+      "id": 3,
+      "name": "Onward",
+      "type": "Animation",
+      "year": "2020",
+      "country": "USA",
+      "director": "Dan Scanlon",
+      "cast": {
+        "name": [
+          "Tom Holland",
+          "Chris Pratt",
+          "Julia Louis-Dreyfus"
+        ]
+      },
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5dj5nsOPEbkyr_Yn2TH5Aj7s4y0PazNrvx7HUJYoFa7KQZqqE",
+      "duration": "1h 42min",
+      "release_date": "6 March 2020",
+      "imdb_rating": "7.4/10",
+      "tomatoe_rating": "88%"
+    },
+    {
+      "id": 4,
+      "name": "Joker",
+      "type": "Crime/Drama",
+      "year": "2019",
+      "country": "USA",
+      "director": "Todd Phillips",
+      "cast": {
+        "name": [
+          "Joaquin Phoenix",
+          "Robert De Niro",
+          "Zazie Beetz"
+        ]
+      },
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJKLiEyyz1Q9RC8EBYl3ijr3nuGeyO2ETmwy6Kdq0AQtD0elWD",
+      "duration": "2h 2min",
+      "release_date": "4 October 2019",
+      "imdb_rating": "8.5/10",
+      "tomatoe_rating": "68%"
+    },
+    {
+      "id": 5,
+      "name": "Aladdin",
+      "type": "Adventure",
+      "year": "2019",
+      "country": "USA",
+      "director": "Guy Ritchie",
+      "cast": {
+        "name": [
+          "Will Smith",
+          "Mena Massoud",
+          "Naomi Scott"
+        ]
+      },
+      "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcReXTb0ovI3Y0LCEEg2_VEyIqm73i-PDegxJaJaIBZh92s_LFK4",
+      "duration": "2h 8min",
+      "release_date": "24 May 2019",
+      "imdb_rating": "7/10",
+      "tomatoe_rating": "57%"
+    },
+    {
+      "id": 6,
+      "name": "War",
+      "type": "Action",
+      "year": "2019",
+      "country": "India",
+      "director": "Siddharth Anand",
+      "cast": {
+        "name": [
+          "Hrithik Roshan",
+          "Tiger Shroff",
+          "Vaani Kapoor"
+        ]
+      },
+      "poster": "https://m.media-amazon.com/images/M/MV5BNTlmNDMzOWQtYzg4Ny00OWQ0LWFhN2MtNmQ2MDczZGZhNTU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "duration": "2h 34min",
+      "release_date": "2 October 2019",
+      "imdb_rating": "6.5/10",
+      "tomatoe_rating": "69%"
+    }
+  ]
 }
