@@ -1,0 +1,79 @@
+{
+	"movies":[
+		{
+			"name":"Tenet",
+			"type":"Action/Sci-Fi",
+			"year":"2020",
+			"country":"USA",
+			"director":"Christopher Nolan",
+			"cast":{
+				"name":["John David Washington","Robert Pattinson","Elizabeth Debicki"]
+			},
+			"poster":"t.ly/iJK3",
+			"duration":"2h 31min",
+			"release_date":"3 September 2020",
+			"imdb_rating": "8.5/10",
+			"tomatoe_rating": "81%"
+		},
+		{
+			"name":"Black Widow",
+			"type":"Action",
+			"year":"2020",
+			"country":"USA",
+			"director":"Cate Shortland",
+			"cast":{
+				"name":["Scarlett Johansson","Robert Downey Jr.","Rachel Weisz"]
+			},
+			"poster":"t.ly/hhYG",
+			"duration":"2h 30min",
+			"release_date":"6 November 2020",
+			"imdb_rating": "7.5/10",
+			"tomatoe_rating": "85%"
+		},
+		{
+			"name":"Onward",
+			"type":"Animation",
+			"year":"2020",
+			"country":"USA",
+			"director":"Dan Scanlon",
+			"cast":{
+				"name":["Tom Holland","Chris Pratt","Julia Louis-Dreyfus"]
+			},
+			"poster":"t.ly/Nb8l",
+			"duration":"1h 42min",
+			"release_date":"6 March 2020",
+			"imdb_rating": "7.4/10",
+			"tomatoe_rating": "88%"
+		},
+		{
+			"name":"Joker",
+			"type":"Crime/Drama",
+			"year":"2019",
+			"country":"USA",
+			"director":"Todd Phillips",
+			"cast":{
+				"name":["Joaquin Phoenix","Robert De Niro","Zazie Beetz"]
+			},
+			"poster":"t.ly/FOAc",
+			"duration":"2h 2min",
+			"release_date":"4 October 2019",
+			"imdb_rating": "8.5/10",
+			"tomatoe_rating": "68%"
+		},
+		{
+			"name":"Aladdin",
+			"type":"Adventure",
+			"year":"2019",
+			"country":"USA",
+			"director":"Guy Ritchie",
+			"cast":{
+				"name":["Will Smith","Mena Massoud","Naomi Scott"]
+			},
+			"poster":"t.ly/VDib",
+			"duration":"2h 8min",
+			"release_date":"24 May 2019",
+			"imdb_rating": "7/10",
+			"tomatoe_rating": "57%"
+		}
+	]
+}
